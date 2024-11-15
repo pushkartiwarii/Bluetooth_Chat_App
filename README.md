@@ -28,12 +28,6 @@ A **peer-to-peer chat application** that enables two Android devices to communic
 
 ---
 
-## Prerequisites
 
-- Android device with Bluetooth functionality.
-- Minimum API level: 21 (Android 5.0 Lollipop).
-- Bluetooth permissions enabled.
-
----
 
 
